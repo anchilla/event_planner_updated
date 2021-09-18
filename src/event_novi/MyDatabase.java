@@ -8,7 +8,7 @@ public class MyDatabase {
 	String url="jdbc:sqlserver://DESKTOP-RAIG008\\SQLEXPRESS01;DatabaseName=master;integratedSecurity=true";
 	
 	String username="root";
-	String password="MYsql_posvecenost2021";
+	String password="**********";
 	String url1="jdbc:mysql://localhost:3306/event_database";
 	public void createDatabase(){
 	
